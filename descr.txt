@@ -1,0 +1,6 @@
+reader_attempts->quizid -- Это reader_publisher->id
+
+reader_publisher->quizid  -- Это quiz->id
+
+reader_question_instanses->quizid -- Это reader_publisher->id
+

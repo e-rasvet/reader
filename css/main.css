@@ -1,0 +1,110 @@
+﻿/*
+* MAIN
+*/
+
+.w-600 {
+width:600px;
+}
+
+.pl-20{
+padding-left:20px;
+}
+
+.ml-10{
+margin-left: 10px;
+}
+
+.mt-10{
+margin-top: 10px;
+}
+
+.p-20{
+padding:20px;
+}
+
+.fl{
+float: left; 
+}
+
+.fr{
+float: right; 
+}
+
+.clear{
+clear:both;
+}
+
+.tal-r{
+text-align: right;
+}
+
+/*
+* Download quizzes
+*/
+
+.dl-title{
+margin: 0 10px 0 10px;
+}
+
+.dl-page-box1{
+padding-left:40px;padding-top:10px;padding-bottom:10px;
+}
+
+.dl-page-install{
+margin-top:40px;margin-left:200px;
+}
+
+.dl-page-box3{
+float:left;padding-right:20px;
+}
+
+.dl-page-box4{
+padding-left:20px;display:none;
+}
+
+.dl-mark{
+color: blue;
+margin-right: 10px;
+}
+
+/*
+* View
+*/
+
+.v-orange{
+background-color:orange;
+padding: 8px;
+}
+
+.v-total-words{
+text-align:right;font-weight:lighter;
+}
+.v-total-words-all{
+text-align:right;font-weight:lighter;
+}
+
+.v-progress-image{
+position:relative;z-index:5;height:100px;width:850px;
+}
+.v-take-quiz-bg{
+background-color:#00CC00;
+}
+
+.v-take-cant-quiz-bg{
+background-color:#FF9900;
+}
+
+.v-message{
+margin-left: 10px;margin-right: 10px;
+}
+
+.changereaderlevel-masschanges{
+margin: 10px 0 10px 0;
+font-weight:bold;
+}
+
+
+
+
+
+
